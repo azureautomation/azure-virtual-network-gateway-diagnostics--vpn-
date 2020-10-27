@@ -1,0 +1,20 @@
+{
+    "Author": "Adam Conkle - MSFT",
+    "ContentSize": 7291,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-virtual-network-gateway-diagnostics-(vpn)/master/Azure_Gateway_Diagnostics.ps1",
+    "DownloadCount": 8796,
+    "Id": "Azure-Virtual-Network-2b4d0793",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 168,
+    "RaterCount": 10,
+    "Rating": 4.4,
+    "ReleaseDate": "2014-7-30T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script sample demonstrates how the Azure Virtual Networks PowerShell cmdlets can be utilized to gather Azure Gateway Diagnostics data. This logging is useful for troubleshooting VPN connection issues, and includes messages such as MainMode SA (Phase 1) and QuickMode SA (Phas",
+    "Title": "Azure: Virtual Network Gateway Diagnostics (VPN)",
+    "UpdatedDate": "2014-12-4T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-virtual-network-gateway-diagnostics-(vpn)",
+    "UserTags": "azure virtual network, azure vnet, azure vnet gateway"
+}
